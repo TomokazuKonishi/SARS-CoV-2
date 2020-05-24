@@ -5,6 +5,6 @@ Here I wish to share the information that
 
 1. We presently do not know the parental strains. The pangolin and bat samples are far from humans.
 
-2. We can chase the routes of infection spreading by the PCA. 
+2. We can chase the routes of infection spreading by ugins direct PCA. 
 
-Here the information, figures are presented.
+Here the information and figures are presented.
